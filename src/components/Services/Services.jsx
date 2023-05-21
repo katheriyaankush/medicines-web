@@ -26,11 +26,12 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>Our Awesome</span>
         <span>Services</span>
         <span>
-        At Leolence Pharmaceuticals, we offer a wide range of services aimed at
+        At Leolence Pharmaceuticals, we offer a wide range of services 
         <br />
-         delivering high-quality healthcare solutions and improving patient outcomes. 
+        aimed at delivering high-quality healthcare solutions and 
           <br />
-          Our services include:
+        improving patient outcomes. 
+        <br />
         </span>
       </div>
       {/* right */}

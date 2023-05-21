@@ -22,7 +22,7 @@ const Testimonial = () => {
 
       </div>
      <p style={{color: 'gray'}}>
-     <b style={{color: 'blue' , fontSize: "30px"}}>Company Name: Leoleance Pharmaceutical  </b>
+     <b style={{color: '#ed9d09' , fontSize: "30px"}}>Company Name: Leoleance Pharmaceutical  </b>
      <br/>
      <br/>
      <b style={{color: 'black'}}>Mission:</b> Our mission is to improve global health outcomes by discovering, developing, and delivering innovative and life-saving pharmaceutical products that address unmet medical needs.
@@ -35,14 +35,7 @@ const Testimonial = () => {
 <br/><br/>
 <b style={{color: 'black'}}>Patient-Centricity:</b> We place patients at the center of everything we do. Their health, well-being, and satisfaction are our top priorities, and we strive to develop medications that meet their needs and improve their lives.
 <br/><br/>
-<b style={{color: 'black'}}>Scientific Excellence:</b> We uphold the highest standards of scientific rigor and innovation. Our commitment to advancing medical science and pushing the boundaries of knowledge drives our research and development efforts.
-<br/><br/>
-<b style={{color: 'black'}}>Integrity and Ethics:</b> We conduct our business with the utmost integrity, adhering to ethical principles and regulatory requirements. We prioritize transparency, honesty, and accountability in all our interactions, ensuring the trust and confidence of patients, healthcare professionals, and stakeholders.
-<br/><br/>
-<b style={{color: 'black'}}>Collaboration and Partnerships: </b> We believe in the power of collaboration. We actively seek partnerships with healthcare professionals, academic institutions, research organizations, and patient advocacy groups to foster knowledge exchange, leverage expertise, and deliver meaningful healthcare solutions.
-<br/><br/>
-<b style={{color: 'black'}}>Access to Medicines:</b> We are dedicated to ensuring access to our medicines for patients worldwide. We strive to make our products affordable, available, and accessible, particularly in underserved communities and developing countries.
-     </p>
+</p>
     </div>
   );
 };

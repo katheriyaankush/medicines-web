@@ -24,23 +24,18 @@ const Works = () => {
           <span style={{ color: darkMode ? "white" : "" }}>
             Works for All these
           </span>
-          <span>Purpose & Messions</span>
+          <span>Purpose & Missions</span>
           <spane>
-          At our pharmaceutical company, our mission and purpose are centered  
+          At our pharmaceutical company, our mission and purpose are 
             <br />
-            around improving global healthcare and enhancing the well-being of individuals 
+            centered around improving global healthcare and enhancing 
             <br />
-            worldwide. We are committed to making a positive impact through the development,
+            the well-being of individuals worldwide. We are committed 
             <br />
-            manufacturing, and distribution of high-quality pharmaceutical products.
+            to making a positive impact through the development,manufacturing,
+            <br />
+            and distribution of high-quality pharmaceutical products.
           </spane>
-          <Link to="contact" smooth={true} spy={true}>
-            <button className="button s-button">Hire Me</button>
-          </Link>
-          <div
-            className="blur s-blur1"
-            style={{ background: "#ABF1FF94" }}
-          ></div>
         </div>
 
         {/* right side */}
