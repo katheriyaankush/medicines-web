@@ -1,0 +1,22 @@
+.floatingDiv {
+  justify-content: space-around;
+  background: rgb(236, 233, 233);
+  box-shadow: var(--boxShadow);
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  padding: 0px 26px 0px 0px;
+  height: 4rem;
+}
+.floatingDiv > img {
+  transform: scale(0.4);
+  width: 170px;
+  height: 110px;
+}
+.floatingDiv > span {
+  font-family:'Courier New';
+  font-size: 20px;
+  /* yahan ye color add kia hy bad mein dark mode k waqt */
+  color: rgb(212, 0, 0);
+}
+
